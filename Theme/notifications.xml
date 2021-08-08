@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTIFICATIONS>
+<show_notifications value="true"/>
+<app_notification_enabled_default value="true"/>
+<default_notification_color value="#A9A9A9"/>
+<notification_format value="_________________________________________________________________%n✏⃞  %app: %[100][#ffffff]title %[100][#d0d0d0]text%n________________________________________________________________"/>
+<click_notification value="true"/>
+<long_click_notification value="true"/>
+<notification_popup_exclude_app value="true"/>
+<notification_popup_exclude_notification value="true"/>
+<notification_popup_reply value="true"/>
+<org.schabi.newpipe enabled="false"/>
+<filter id="-1" value="_________________________________________________________________%n✏⃞  %app: Muviz: поверх других приложений Чтобы отключить эту функцию для приложения Muviz, перейдите в настройки.%n________________________________________________________________"/>
+<filter id="-1" value="_________________________________________________________________%n✏⃞  %app: null null%n________________________________________________________________"/>
+</NOTIFICATIONS>

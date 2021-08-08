@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RSS>
+<rss_default_color value="white"/>
+<rss_default_format value="—————————————————————————————————————————– ✓%[500][white]title%[500][white]description —————————————————————————————————————————–"/>
+<include_rss_default value="true"/>
+<rss_hidden_tags value="img"/>
+<rss_time_format value="%t0"/>
+<show_rss_download value="true"/>
+<rss_download_format value="—————————————————————————————————————————–  Ⓡⓢⓢ:%id Обновлено ➪%sb байт       —————————————————————————————————————————–"/>
+<rss_download_message_color value="white"/>
+<click_rss value="true"/>
+
+#RSS-КАНАЛЫ
+<rss id="1" updateTimeSec="3600" show="false" url="http://4pda.ru/feed/rss/" lastChecked="1604510084352"/>
+<rss id="3" updateTimeSec="3600" show="false" url="http://gpko-avangard.ru/rss/" lastChecked="1604509216038"/>
+
+<rss id="4" updateTimeSec="3600" show="false" url="https://ko44.ru/news/society.feed" lastChecked="1604509216810" timeFormat="YYYY-MMM-ddTHH:mm:ssZZZZZ"/>
+
+<rss id="5" updateTimeSec="3600" show="false" url="https://rsshub.app/telegram/channel/TeleAniLibria" lastChecked="1604509220477"/>
+
+<rss id="2" updateTimeSec="3600" show="false" url="https://pingvinus.ru/rss.xml" lastChecked="1604507717992"/>
+
+<rss id="10" updateTimeSec="86400" show="false" url="https://www.youtube.com/feeds/videos.xml?channel_id=UCZCWol-6RuRBa3QVzR_4tnQ" lastChecked="1604497934764" entryTag="entry"/>
+
+<rss id="6" updateTimeSec="3600" show="false" url="https://russian.rt.com/rss" lastChecked="1604509216634"/>
+<rss id="7" updateTimeSec="3600" show="false" url="https://www.youtube.com/feeds/videos.xml?playlist_id=PLgMaGEI-ZiiZ0ZvUtduoDRVXcU5ELjPcI" lastChecked="1604509216406" entryTag="entry"/>
+
+<rss id="8" updateTimeSec="3600" show="false" url="https://rsshub.app/telegram/channel/Blacklist_Wanderer" lastChecked="1604509219344"/>
+
+</RSS>

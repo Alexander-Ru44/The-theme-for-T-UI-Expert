@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+
+>
+    <channel>
+        <title><![CDATA[Blacklist ツ - Telegram 频道]]></title>
+        <link>https://t.me/s/Blacklist_Wanderer</link>
+        <atom:link href="http://rsshub.app/telegram/channel/Blacklist_Wanderer" rel="self" type="application/rss+xml" />
+        <description><![CDATA[Blacklist_Wanderer - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        <itunes:author>Blacklist ツ</itunes:author>
+        
+        <itunes:explicit>clean</itunes:explicit>
+        <language>zh-cn</language>
+        
+        <image>
+            <url>https://cdn4.telesco.pe/file/M_zkOQ_rra-QWfyczdaQvo9g-20SHGyl_IlsbcBPTzHcHdCiFoESLR_kyT1nvX0E90M7euGG_O0yumWnY4uR8kKXUo5vxaesaGhdyaFvKvELQ_phi69Fvdk5lqdQ7ygt8MAmgif7kGGYi_-Eyzakj9RZDFebbXXOgE2mke9yRql_Snsp2JyCBI89drY-Ufp7dGTzjOJT8ASQZnLCJKuUfZOIQ8eghWhxX0VXDuuIr3NT1V_nDjQtAAvvIVnQjbO5mfRBZXbHcQay-mLKorMFxXLMfmAW4rRb89SabiXtXXWT7dOc3ZUx9U10vYyYE2xXsn7rODpqAxFd8t7zZ436nw.jpg</url>
+            <title><![CDATA[Blacklist ツ - Telegram 频道]]></title>
+            <link>https://t.me/s/Blacklist_Wanderer</link>
+        </image>
+        
+        <lastBuildDate>Wed, 04 Nov 2020 17:00:20 GMT</lastBuildDate>
+        <ttl>60</ttl>
+        
+        <item>
+            <title><![CDATA[Мои инструкции по T-ui:]]></title>
+            <description><![CDATA[<p>Мои инструкции по T-ui:</p>]]></description>
+            <pubDate>Wed, 26 Aug 2020 00:08:16 GMT</pubDate>
+            <guid isPermaLink="false">https://t.me/Blacklist_Wanderer/11</guid>
+            <link>https://t.me/Blacklist_Wanderer/11</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Channel created]]></title>
+            <description><![CDATA[<p>Channel created</p>]]></description>
+            <pubDate>Tue, 25 Aug 2020 22:29:27 GMT</pubDate>
+            <guid isPermaLink="false">https://t.me/Blacklist_Wanderer/1</guid>
+            <link>https://t.me/Blacklist_Wanderer/1</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+    </channel>
+</rss>

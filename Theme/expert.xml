@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EXPERT>
+<show_help value="false"/>
+<show_call value="true"/>
+<show_exit value="true"/>
+<exit_password value="1999"/>
+<use_root value="false"/>
+<numbering_notes value="true"/>
+<custom_command value="
+curl wttr.in/manturovo?\?0T\&amp;lang=ru
+"/>
+<custom_command_timeout value="30"/>
+<custom_command_size value="12"/>
+<show_custom_command value="true"/>
+<custom_command_index value="1"/>
+<termux_timeout value="300"/>
+</EXPERT>

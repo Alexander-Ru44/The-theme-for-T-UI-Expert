@@ -1,0 +1,26 @@
+айпи=(ip addres)
+пинг=(ping -c 10 google.com)
+вк=search -u https://vk.com/id259202024
+календарь=(cal)
+время=(sh t-ui/scripts/Время.sh)
+рестарт=restart
+выход=exit 1999
+хром=Chrome
+лаунчер(4pda)=search -u https://4pda.ru/forum/index.php?showtopic=679788
+секундомер=(sh t-ui/scripts/Секундомер.sh)
+остановить-скрипт=ctrlc
+Выключить(Андроид)=su -c "svc power shutdown"
+Перезагрузить(Андроид)=su -c "svc power reboot"
+гео-IP=curl -s https://ipinfo.io/country
+инфа-по-ip=curl -s https://ipinfo.io?token=$TOKEN
+мои приложения=su -c am start -a 'com.google.android.finsky.VIEW_MY_DOWNLOADS' -n 'com.android.vending/com.google.android.finsky.activities.MainActivity'
+Новости 4pda=rss -l 1
+Новости Линукс=rss -l 2
+Авангард=rss -l 3
+Новости 44=rss -l 4
+АниЛибрия=rss -l 5
+Новости RT=rss -l 6
+След YT=rss -l 10
+Тренды YT=rss -l 7
+
+1999=(sh t-ui/scripts/untitled.sh)
